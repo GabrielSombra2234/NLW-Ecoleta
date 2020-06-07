@@ -1,2 +1,2 @@
-# NLW-Ecoleta-
-Projeto Ecolata ☘🚀 ￼￼, feito durante a semana Next Level Week, da Rocketseat ￼￼💜🚀
+# NLW-Ecoleta
+Projeto Ecoleta ☘🚀 ￼￼, feito durante a semana Next Level Week, Starter, da Rocketseat ￼￼💜🚀
